@@ -1,0 +1,24 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Sensitive Information
+.env
+service_name.json
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS related files
+.DS_Store
+Thumbs.db
