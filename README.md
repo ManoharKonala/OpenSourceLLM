@@ -1,5 +1,10 @@
 # ChatHugginf - AI Chat Application
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Inference%20API-yellow)](https://huggingface.co/inference-api)
+[![Gradio](https://img.shields.io/badge/UI-Gradio-orange)](https://gradio.app/)
+[![Google Sheets](https://img.shields.io/badge/Logging-Google%20Sheets-green)](https://developers.google.com/sheets/api)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 A modern AI-powered chat interface built with **Gradio** and **Hugging Face Inference API**, featuring Google Sheets logging and IP tracking.
 
 ## 🛠️ Tech Stack
@@ -260,3 +265,12 @@ Edit `theme` variable (lines 228-241) or `custom_css` (lines 127-225)
 3. Receive AI response in real-time
 4. All conversations logged to Google Sheets
 5. Session tracked via unique ID
+
+
+## 📄 License
+Distributed under the **MIT License**. See `LICENSE` for more information (coming soon).
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions.
